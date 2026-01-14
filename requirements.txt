@@ -36,4 +36,8 @@ fake-useragent>=1.4.0       # 随机 User-Agent 防封禁
 # 数据库
 # SQLite 是 Python 内置，无需额外安装
 
+yfinance
+google-generativeai
 line-bot-sdk
+pandas
+requests
